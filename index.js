@@ -20,7 +20,7 @@ const weather = (location) => {
     )
 };
 
-(async (name) => {
+(async () => {
   const questions = [
   {
     type: 'text',
